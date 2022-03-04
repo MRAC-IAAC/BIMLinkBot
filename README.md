@@ -28,7 +28,7 @@ Use SLAM to map the space and run AMCL to navigate the robot. As QR codes' are d
 * [Check Sheets](https://en.wikipedia.org/wiki/Check_sheet) & [Punch Lists](https://en.wikipedia.org/wiki/Punch_list) description for those unaware
 
 Credits: Based on IAAC publishing guidelines:
-BIMLinkBot is a project of IaaC, Institute for Advanced Architecture of Catalonia. developed at Master in Robotics and Advanced Construction in 2019-2020 by:
+BIMLinkBot is a project of IaaC, Institute for Advanced Architecture of Catalonia. developed at Master in Robotics and Advanced Construction in 2021-2022 by:
 
 Students: Alfred Bowles, Amy Yeo Jeong Kim, Chris Booth, Robert Michael Blackburn, Tomas Quijano
 
