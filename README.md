@@ -2,7 +2,7 @@
 Using ROS and QR code tracking with a Turtlebot 2 to detect and map QR codes in 3D space.
 
 __Workflow:__
-Use SLAM to map the space and run AMCL to navigate the robot. As QR codes are detected by the camera, markers will be published at the QR codes positions.
+Use SLAM to map the space and run AMCL to navigate the robot. As QR codes' are detected by the camera, markers will be published at the QR codes positions.
 
 
 ## Requirements: 
